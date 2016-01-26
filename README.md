@@ -1,3 +1,3 @@
 # xcode-tools
 
-some useful tools for daily work
+Tools to make developers life easier.
